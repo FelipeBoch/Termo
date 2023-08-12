@@ -100,11 +100,30 @@ thead {
 }
 
 @media (max-width: 750px) {
+  *{
+    margin: 0;
+    align-items: center;
+  }
+
   td {
-  border: 1px solid #333;
-  width: 5vh;
-  height: 5vh;
-  text-align: center;
-  vertical-align: middle;
+    border: 1px solid #333;
+    width: 5vh;
+    height: 5vh;
+    text-align: end;
+    vertical-align: middle;
+  }
+  
+  tr {
+    vertical-align: center;
+  }
+
+  #resposta{
+    width: 170px;
+    font-size: 1vh;
+  }
+
+  .botao_validar{
+    width: 50px;
+    font-size: 1vh;
   }
 }
