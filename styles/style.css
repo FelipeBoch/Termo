@@ -126,4 +126,9 @@ thead {
     width: 50px;
     font-size: 1vh;
   }
+
+  #campo_de_resposta{
+    width: 14rem;
+    font-size: 3vh;
+  }
 }
