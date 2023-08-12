@@ -131,4 +131,8 @@ thead {
     width: 14rem;
     font-size: 3vh;
   }
+
+  #titulo_tabela{
+    font-size: 5vh;
+  }
 }
