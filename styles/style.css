@@ -135,4 +135,8 @@ thead {
   #titulo_tabela{
     font-size: 5vh;
   }
+
+  .reset_button{
+    width: 100%;
+  }
 }
